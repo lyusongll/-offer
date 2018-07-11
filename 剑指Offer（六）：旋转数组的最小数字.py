@@ -27,5 +27,5 @@ def OO(num,l,r):
             result=num[i]
     return result
 
-num =[1,1,0,1,1,11]
+num =[1,1,0,1,1,119]
 print(O(num))
